@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>components/VerticalSlider.qml</file>
+        <file>components/Utils.js</file>
+    </qresource>
+</RCC>
